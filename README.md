@@ -1,2 +1,2 @@
 # Farrari-car-website
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/debojit08/Farrari-car-website/master/1.png)
